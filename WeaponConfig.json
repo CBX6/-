@@ -1,0 +1,407 @@
+{
+    "0": {
+        "auto_click": false,
+        "disable_switch": false,
+        "recoil_value": 0.0
+    },
+    "1": {
+        "auto_click": true,
+        "disable_switch": false,
+        "recoil_value": 0.5
+    },
+    "101001": {
+        "auto_click": false,
+        "disable_switch": false,
+        "recoil_value": 5.0
+    },
+    "101002": {
+        "auto_click": true,
+        "disable_switch": false,
+        "recoil_value": 2.319999933242798
+    },
+    "101003": {
+        "auto_click": false,
+        "disable_switch": false,
+        "recoil_value": 3.2699999809265137
+    },
+    "1010032": {
+        "auto_click": false,
+        "disable_switch": false,
+        "recoil_value": 1.690000057220459
+    },
+    "101004": {
+        "auto_click": false,
+        "disable_switch": false,
+        "recoil_value": 3.640000104904175
+    },
+    "1010044": {
+        "auto_click": false,
+        "disable_switch": false,
+        "recoil_value": 1.899999976158142
+    },
+    "1010045": {
+        "auto_click": false,
+        "disable_switch": false,
+        "recoil_value": 2.859999895095825
+    },
+    "101005": {
+        "auto_click": false,
+        "disable_switch": false,
+        "recoil_value": 4.710000038146973
+    },
+    "1010054": {
+        "auto_click": false,
+        "disable_switch": false,
+        "recoil_value": 2.069999933242798
+    },
+    "101006": {
+        "auto_click": false,
+        "disable_switch": false,
+        "recoil_value": 3.880000114440918
+    },
+    "101007": {
+        "auto_click": false,
+        "disable_switch": false,
+        "recoil_value": 3.7100000381469727
+    },
+    "101008": {
+        "auto_click": false,
+        "disable_switch": false,
+        "recoil_value": 4.809999942779541
+    },
+    "1010084": {
+        "auto_click": false,
+        "disable_switch": false,
+        "recoil_value": 2.2100000381469727
+    },
+    "101009": {
+        "auto_click": true,
+        "disable_switch": false,
+        "recoil_value": 4.019999980926514
+    },
+    "1010091": {
+        "auto_click": false,
+        "disable_switch": false,
+        "recoil_value": 2.1700000762939453
+    },
+    "101010": {
+        "auto_click": false,
+        "disable_switch": false,
+        "recoil_value": 2.930000066757202
+    },
+    "1010106": {
+        "auto_click": false,
+        "disable_switch": false,
+        "recoil_value": 2.109999895095825
+    },
+    "1010107": {
+        "auto_click": false,
+        "disable_switch": false,
+        "recoil_value": 1.7999999523162842
+    },
+    "101012": {
+        "auto_click": false,
+        "disable_switch": false,
+        "recoil_value": 4.5
+    },
+    "101100": {
+        "auto_click": false,
+        "disable_switch": false,
+        "recoil_value": 3.9200000762939453
+    },
+    "1011002": {
+        "auto_click": false,
+        "disable_switch": false,
+        "recoil_value": 1.899999976158142
+    },
+    "101101": {
+        "auto_click": true,
+        "disable_switch": false,
+        "recoil_value": 1.9500000476837158
+    },
+    "101102": {
+        "auto_click": false,
+        "disable_switch": false,
+        "recoil_value": 4.829999923706055
+    },
+    "102001": {
+        "auto_click": false,
+        "disable_switch": false,
+        "recoil_value": 2.569999933242798
+    },
+    "1020011": {
+        "auto_click": false,
+        "disable_switch": false,
+        "recoil_value": 1.9800000190734863
+    },
+    "102002": {
+        "auto_click": false,
+        "disable_switch": false,
+        "recoil_value": 2.819999933242798
+    },
+    "1020022": {
+        "auto_click": false,
+        "disable_switch": false,
+        "recoil_value": 0.5600000023841858
+    },
+    "102003": {
+        "auto_click": false,
+        "disable_switch": false,
+        "recoil_value": 2.7200000286102295
+    },
+    "102004": {
+        "auto_click": false,
+        "disable_switch": false,
+        "recoil_value": 4.769999980926514
+    },
+    "102005": {
+        "auto_click": false,
+        "disable_switch": false,
+        "recoil_value": 2.7899999618530273
+    },
+    "102007": {
+        "auto_click": false,
+        "disable_switch": false,
+        "recoil_value": 3.509999990463257
+    },
+    "1020075": {
+        "auto_click": false,
+        "disable_switch": false,
+        "recoil_value": 1.2300000190734863
+    },
+    "102008": {
+        "auto_click": false,
+        "disable_switch": false,
+        "recoil_value": 2.940000057220459
+    },
+    "1020084": {
+        "auto_click": false,
+        "disable_switch": false,
+        "recoil_value": 1.7300000190734863
+    },
+    "1020085": {
+        "auto_click": false,
+        "disable_switch": false,
+        "recoil_value": 1.4299999475479126
+    },
+    "102105": {
+        "auto_click": false,
+        "disable_switch": false,
+        "recoil_value": 0.8600000143051147
+    },
+    "1021054": {
+        "auto_click": false,
+        "disable_switch": false,
+        "recoil_value": 1.4600000381469727
+    },
+    "1021055": {
+        "auto_click": false,
+        "disable_switch": false,
+        "recoil_value": 0.8600000143051147
+    },
+    "103002": {
+        "auto_click": true,
+        "disable_switch": false,
+        "recoil_value": 0.5
+    },
+    "103004": {
+        "auto_click": true,
+        "disable_switch": false,
+        "recoil_value": 3.200000047683716
+    },
+    "1030042": {
+        "auto_click": true,
+        "disable_switch": false,
+        "recoil_value": 1.4199999570846558
+    },
+    "103005": {
+        "auto_click": false,
+        "disable_switch": false,
+        "recoil_value": 2.359999895095825
+    },
+    "103006": {
+        "auto_click": true,
+        "disable_switch": false,
+        "recoil_value": 2.890000104904175
+    },
+    "103007": {
+        "auto_click": false,
+        "disable_switch": false,
+        "recoil_value": 3.7799999713897705
+    },
+    "1030073": {
+        "auto_click": false,
+        "disable_switch": false,
+        "recoil_value": 1.5700000524520874
+    },
+    "1030074": {
+        "auto_click": false,
+        "disable_switch": false,
+        "recoil_value": 2.6500000953674316
+    },
+    "1030075": {
+        "auto_click": false,
+        "disable_switch": false,
+        "recoil_value": 1.4800000190734863
+    },
+    "103009": {
+        "auto_click": true,
+        "disable_switch": false,
+        "recoil_value": 4.829999923706055
+    },
+    "103010": {
+        "auto_click": true,
+        "disable_switch": false,
+        "recoil_value": 3.0999999046325684
+    },
+    "103012": {
+        "auto_click": false,
+        "disable_switch": false,
+        "recoil_value": 0.0
+    },
+    "103100": {
+        "auto_click": true,
+        "disable_switch": false,
+        "recoil_value": 2.5999999046325684
+    },
+    "103102": {
+        "auto_click": false,
+        "disable_switch": false,
+        "recoil_value": 0.5
+    },
+    "103103": {
+        "auto_click": true,
+        "disable_switch": false,
+        "recoil_value": 1.9600000381469727
+    },
+    "104002": {
+        "auto_click": true,
+        "disable_switch": false,
+        "recoil_value": 0.5
+    },
+    "104003": {
+        "auto_click": true,
+        "disable_switch": false,
+        "recoil_value": 1.840000033378601
+    },
+    "1040035": {
+        "auto_click": false,
+        "disable_switch": false,
+        "recoil_value": 0.5
+    },
+    "104004": {
+        "auto_click": true,
+        "disable_switch": false,
+        "recoil_value": 0.5
+    },
+    "104101": {
+        "auto_click": true,
+        "disable_switch": false,
+        "recoil_value": 0.5
+    },
+    "104102": {
+        "auto_click": true,
+        "disable_switch": false,
+        "recoil_value": 0.0
+    },
+    "105001": {
+        "auto_click": false,
+        "disable_switch": false,
+        "recoil_value": 3.009999990463257
+    },
+    "1050013": {
+        "auto_click": false,
+        "disable_switch": false,
+        "recoil_value": 2.0799999237060547
+    },
+    "105002": {
+        "auto_click": false,
+        "disable_switch": false,
+        "recoil_value": 1.8799999952316284
+    },
+    "1050031": {
+        "auto_click": false,
+        "disable_switch": false,
+        "recoil_value": 0.0
+    },
+    "105010": {
+        "auto_click": false,
+        "disable_switch": false,
+        "recoil_value": 1.809999942779541
+    },
+    "1050105": {
+        "auto_click": false,
+        "disable_switch": false,
+        "recoil_value": 0.6700000166893005
+    },
+    "106001": {
+        "auto_click": true,
+        "disable_switch": false,
+        "recoil_value": 3.9700000286102295
+    },
+    "1060011": {
+        "auto_click": false,
+        "disable_switch": false,
+        "recoil_value": 0.5
+    },
+    "1060013": {
+        "auto_click": false,
+        "disable_switch": false,
+        "recoil_value": 0.5
+    },
+    "1060021": {
+        "auto_click": false,
+        "disable_switch": false,
+        "recoil_value": 0.0
+    },
+    "106004": {
+        "auto_click": false,
+        "disable_switch": false,
+        "recoil_value": 3.700000047683716
+    },
+    "1060051": {
+        "auto_click": false,
+        "disable_switch": false,
+        "recoil_value": 1.0700000524520874
+    },
+    "106008": {
+        "auto_click": false,
+        "disable_switch": false,
+        "recoil_value": 1.7599999904632568
+    },
+    "106011": {
+        "auto_click": false,
+        "disable_switch": false,
+        "recoil_value": 2.2699999809265137
+    },
+    "107011": {
+        "auto_click": false,
+        "disable_switch": false,
+        "recoil_value": 0.5
+    },
+    "107039": {
+        "auto_click": false,
+        "disable_switch": false,
+        "recoil_value": 0.5
+    },
+    "601003": {
+        "auto_click": false,
+        "disable_switch": false,
+        "recoil_value": 0.5
+    },
+    "601005": {
+        "auto_click": false,
+        "disable_switch": false,
+        "recoil_value": 0.5
+    },
+    "602004": {
+        "auto_click": false,
+        "disable_switch": false,
+        "recoil_value": 0.5
+    },
+    "603403": {
+        "auto_click": false,
+        "disable_switch": false,
+        "recoil_value": 0.5
+    }
+}
